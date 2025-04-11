@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
 
-@author: Mansour Talebizadeh
-"""
 import numpy as np
 import math
 from sklearn.decomposition import PCA
